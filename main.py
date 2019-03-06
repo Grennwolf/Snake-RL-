@@ -1,4 +1,4 @@
-import game_1_1 as game
+import game
 import numpy as np
 import time
 
